@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QRAttendanceSysMain</string>
+
+    <string-array name="section">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+    <string-array name="semester">
+        <item>1st</item>
+        <item>2nd</item>
+    </string-array>
+    <string-array name="year">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+    </string-array>
+</resources>
