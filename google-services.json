@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "408475290774",
+    "firebase_url": "https://qrattendancesys.firebaseio.com",
+    "project_id": "qrattendancesys",
+    "storage_bucket": "qrattendancesys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408475290774:android:c71d19c5040d3e28",
+        "android_client_info": {
+          "package_name": "com.example.anwarhanif.qrattendancesys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408475290774-cgrb83jrrr2tdiskv3j6it8vkf8g1d6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anwarhanif.qrattendancesys",
+            "certificate_hash": "405ef82d8e87633810d6c4ced1b9898f6103e88e"
+          }
+        },
+        {
+          "client_id": "408475290774-5fu7ebkbd0vmta6o6fb8afj09565kvo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhGjxaWCD2aGJJdzexEc0KXZOp5BESDFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408475290774-5fu7ebkbd0vmta6o6fb8afj09565kvo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
